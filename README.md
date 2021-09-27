@@ -1,5 +1,9 @@
 # debian_web
 
+<p align="center">
+  <img width="100%" height="100%" src="https://github.com/julienleows/photobox-weisse-boussetta/blob/main/images/capture-photobox.jpg">
+</p>
+
 
 ## Introduction
 Ce dépôt github regroupe tous les documents et sources du projet photobox en javascript.
@@ -9,7 +13,7 @@ d'afficher et de faire défiler des galeries de photos paginées. Un mode "light
 chaque photo occupe l'ensemble de la fenêtre navigateur.**
 
 * Membres :
-	* [@theo](https://github.com/boussett4u)
+	* [@bolmont19u](https://github.com/RoyalLilium)
 	* [@boussett4u](https://github.com/boussett4u)
 
 ## Fonctionnalitées obligatoires
