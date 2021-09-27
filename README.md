@@ -1,8 +1,7 @@
 # debian_web
 
 <p align="center">
-	<img width="100%" height="100%" src="https://github.com/julienleows/photobox-weisse-boussetta/blob/main/images/capture-photobox.jpg">
-	<img width="100%" height="100%" src="https://github.com/Boussett4u/debian_web/blob/main/images/demo/debian.png">
+	<img width="50%" height="50%" src="https://github.com/Boussett4u/debian_web/blob/main/images/demo/debian.png">
 </p>
 
 
