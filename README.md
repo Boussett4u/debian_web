@@ -32,11 +32,12 @@ Fct | details | realisé
 3 | naviguer dans la lightbox avec gestion de la pagination | oui
 4 | ajout de commentaires | oui
 
+* Template utilisée
+* ([os-template](https://www.os-templates.com/free-website-templates/foxclore))
+
 ## Technologies
 * HTML ([w3.org](https://www.w3.org))
 * CSS ([w3/CSS.org](https://www.w3.org/Style/CSS))
-* JavaScript ([javascript](https://fr.wikipedia.org/wiki/JavaScript))
-* Bootstrap ([getbootstrap.com](https://getbootstrap.com))
 
 <p align="center">
   <img width="100%" height="100%" src="https://github.com/julienleows/photobox-weisse-boussetta/blob/main/images/capture-photobox.jpg">
