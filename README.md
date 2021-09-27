@@ -32,7 +32,7 @@ Fct | details | realisé
 3 | naviguer dans la lightbox avec gestion de la pagination | oui
 4 | ajout de commentaires | oui
 
-* Template utilisée
+## Template utilisée
 * ([os-template](https://www.os-templates.com/free-website-templates/foxclore))
 
 ## Technologies
