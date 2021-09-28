@@ -316,8 +316,7 @@ input:focus, textarea:focus, *:required:focus{border-color:#41C379;}
 .overlay.light{color:#474747;}
 .overlay.light::after{background-color:rgba(255,255,255,.7);}
 
-.btn, .btn.inverse:hover{color:#FFFFFF; background-color:#c34141; border-color:#c34141;}
-.btn:hover, .btn.inverse{color:inherit; background-color:transparent; border-color:inherit;}
+
 
 .imgover:hover::before{background-color:rgba(0,0,0,.55);}
 .imgover, .imgover:hover::after{color:#c34141;}
