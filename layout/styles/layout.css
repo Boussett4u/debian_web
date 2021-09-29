@@ -83,7 +83,7 @@ File: Layout CSS
 /* Latest */
 .latest{margin-bottom:80px;}
 .latest > li:last-child{margin-bottom:0;}/* Used when elements stack in small viewports */
-.latest article{position:relative; pacontainerdding:0 0 0 80px;}
+.latest article{position:relative; padding:0 0 0 80px;}
 .latest article time{display:block; position:absolute; top:0; left:0; width:60px;}
 .latest article time *{display:block; margin:0; padding:0; text-align:center; text-transform:uppercase; font-style:normal; line-height:1;}
 .latest article time strong{padding:12px 0; font-size:18px; border-bottom:1px solid; opacity:.5;}
