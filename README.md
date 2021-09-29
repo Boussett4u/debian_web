@@ -21,3 +21,6 @@ Ce dépôt github regroupe tous les documents et sources du projet d'adaptation 
 * HTML ([w3.org](https://www.w3.org))
 * CSS ([w3/CSS.org](https://www.w3.org/Style/CSS))
 
+## Non-respects de la norme
+*
+
