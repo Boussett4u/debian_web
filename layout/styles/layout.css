@@ -40,22 +40,6 @@ File: Layout CSS
 #header div:last-child{margin-bottom:0;}/* Used when elements stack in small viewports */
 
 
-/* Navwrapper
---------------------------------------------------------------------------------------------------------------- */
-#navwrapper{padding:0 0 0 20px;}
-
-#navwrapper #searchform{display:block; position:relative; float:right; height:58px; line-height:1; z-index:999; border-radius:10px 0;}
-#navwrapper #searchform::after{display:block; height:58px; line-height:58px; padding:0 15px; font-size:20px; font-family:"Font Awesome 5 Free"; font-weight:900; content:"\f002"/* fa-search */;}
-#navwrapper #searchform:hover::after, #navwrapper #searchform button{cursor:pointer;}
-#navwrapper #searchform > div{position:absolute; top:58px; right:0; width:280px; visibility:hidden; opacity:0/* Required for transition effect */;}
-#navwrapper #searchform:hover > div{visibility:visible; opacity:1/* Required for transition effect */;}
-#navwrapper #searchform form{display:block; position:relative;}
-#navwrapper #searchform form *{border:none;}
-#navwrapper #searchform input{display:block; width:100%; height:36px; padding:8px 40px 8px 10px; font-size:1rem;}
-#navwrapper #searchform ::placeholder{text-transform:capitalize;}
-#navwrapper #searchform button{display:block; position:absolute; top:3px; right:2px; height:30px; font-size:16px; line-height:1;}
-
-
 /* Page Intro
 --------------------------------------------------------------------------------------------------------------- */
 #pageintro{padding:180px 0;}
@@ -270,13 +254,6 @@ th, td{padding:5px 8px;}
 td{border-width:0 1px;}
 
 
-/* Gallery
---------------------------------------------------------------------------------------------------------------- */
-#gallery{display:block; width:100%; margin-bottom:50px;}
-#gallery figure figcaption{display:block; width:100%; clear:both;}
-#gallery li{margin-bottom:30px;}
-
-
 /* Font Awesome Social Icons
 --------------------------------------------------------------------------------------------------------------- */
 .faico{margin:0; padding:0; list-style:none;}
@@ -337,14 +314,6 @@ input:focus, textarea:focus, *:required:focus{border-color:#41C379;}
 #header #logo a{color:inherit;}
 #header ul li div i{background-color:#FFFFFF;}
 #header ul li div:hover i{color:#FFFFFF; background-color:#41C379;}
-
-
-/* Navwrapper */
-#navwrapper{color:#FFFFFF; background-color:rgba(0,0,0,.35);}
-#navwrapper #searchform{color:#c34141; background:#FFFFFF;}
-#navwrapper #searchform:hover{color:#c34141;}
-#navwrapper #searchform input{color:#FFFFFF; background:#41C379;}
-#navwrapper #searchform button{color:#FFFFFF; background:transparent;}
 
 
 /* Page Intro */
@@ -435,10 +404,6 @@ table a, #comments a{background-color:inherit;}
 
 	#header{}
 
-	#navwrapper #mainav{width:80%; padding:15px 0 0 0;}
-	#navwrapper #mainav ul{display:none;}
-	#navwrapper #mainav form{display:block;}
-
 	#breadcrumb{}
 
 	.container{}
@@ -458,10 +423,6 @@ table a, #comments a{background-color:inherit;}
 	.one_half, .one_third, .two_third, .one_quarter, .two_quarter, .three_quarter{display:block; float:none; width:auto; margin:0 0 30px 0; padding:0;}
 
 	#header{}
-
-	#navwrapper{padding:0 20px;}
-	#navwrapper #searchform{display:none;}/* Needs modifying if the form is required in small viewports */
-	#navwrapper #mainav{float:none; width:100%; padding:15px 0;}
 
 	#pageintro article{max-width:none;}
 	#pageintro .heading{font-size:2rem;}
