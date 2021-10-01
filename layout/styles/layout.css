@@ -248,17 +248,17 @@ table a, #comments a{background-color:inherit;}
 --------------------------------------------------------------------------------------------------------------- */
 @media screen and (max-width:978px){
 	.hoc{max-width:90%;}
-
+	
 	#header{}
-
+	
 	#breadcrumb{}
-
+	
 	.container{}
 	#comments input[type="reset"]{margin-top:10px;}
 	.pagination li{display:inline-block; margin:0 5px 5px 0;}
-
+	
 	#footer{}
-
+	
 	#copyright{}
 	#copyright p:first-of-type{margin-bottom:10px;}
 }
@@ -268,19 +268,19 @@ table a, #comments a{background-color:inherit;}
 	.fl_left, .fl_right{display:block; float:none;}
 	.group .group > *:last-child, .clear .clear > *:last-child, .clear .group > *:last-child, .group .clear > *:last-child{margin-bottom:0;}/* Experimental - Needs more testing in different situations, stops double margin when stacking */
 	.one_half, .one_third, .two_third, .one_quarter, .two_quarter, .three_quarter{display:block; float:none; width:auto; margin:0 0 30px 0; padding:0;}
-
+	
 	#header{}
-
+	
 	#pageintro article{max-width:none;}
 	#pageintro .heading{font-size:2rem;}
 	#pageintro p:first-of-type{font-size:1rem;}
-
+	
 	#introblocks > ul{margin:0 auto; max-width:348px;}/* Centre the items and restrict the width to the one_third grid element */
 	#introblocks > ul > li:nth-last-child(-n+3){margin-bottom:50px;}
 	#introblocks > ul > li:last-child{margin-bottom:0;}
-
+	
 	.sectiontitle{max-width:none;}
-
+	
 	#footer{padding-bottom:50px;}/* Not required, just looks a little better */
 }
 
@@ -302,10 +302,10 @@ table a, #comments a{background-color:inherit;}
 @media screen and (max-width:650px){
 	.scrollable{display:block; width:100%; margin:0 0 30px 0; padding:0 0 15px 0; overflow:auto; overflow-x:scroll;}
 	.scrollable table{margin:0; padding:0; white-space:nowrap;}
-
+	
 	.inline li{display:block; margin-bottom:10px;}
 	.pushright li{margin-right:0;}
-
+	
 	.font-x2{font-size:1.4rem;}
 	.font-x3{font-size:1.6rem;}
 }
