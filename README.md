@@ -11,8 +11,8 @@ Ce dépôt github regroupe tous les documents et sources du projet d'adaptation 
 > **Ce site est un site web statique à propos du système d'exploitation Debian.**
 
 * Membres :
-	* [@bolmont19u](https://github.com/RoyalLilium)
-	* [@boussett4u](https://github.com/boussett4u)
+	* [@bolmont19u](https://github.com/RoyalLilium)(Adresse UL: theo.bolmont5@etu.univ-lorraine.fr)
+	* [@boussett4u](https://github.com/boussett4u)(Adresse UL: nael.boussetta3@etu.univ-lorraine.fr)
 
 ## Template utilisée
 * ([os-template](https://www.os-templates.com/free-website-templates/foxclore))
